@@ -1,0 +1,13 @@
+
+mkdir projects
+cd projects
+mkdir my_projects
+cd my_projects
+mkdir derictory1
+cd derictory1
+mkdir subderictory
+cd ../
+mkdir derictory2
+mkdir derictory3
+cd derictory3
+mkdir subderictory2

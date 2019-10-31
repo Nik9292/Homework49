@@ -8,3 +8,4 @@ figlet.text(process.argv[2], function (error, data) {
     }
 });
 
+
