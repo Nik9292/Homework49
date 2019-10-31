@@ -7,3 +7,4 @@ figlet.text(process.argv[2], function (error, data) {
         console.log(data);
     }
 });
+
